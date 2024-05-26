@@ -1,5 +1,6 @@
 👋 Hey there! I'm Mano Prasad
 🌟 Passionate Undergraduate | AI & Game Dev Enthusiast
+
 🚀 Current Focus:
 I'm diving deep into the realms of Artificial Intelligence and Machine Learning (AIML) while simultaneously leveling up my Game Development skills. Always on the lookout for the latest trends and innovations in these thrilling fields.
 
